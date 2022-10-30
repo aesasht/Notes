@@ -469,7 +469,7 @@ git remote -v
 git remote add [shortname] [url]
 ```
 
-shortname为本地的版本库名。
+shortname为本地的版本库的别名。
 
 #### 如何将本地的代码提交到GitHub上
 
@@ -536,3 +536,8 @@ $ git push origin master    # 推送到 Github
 git remote rm [别名]
 ```
 
+
+
+
+
+就此为第一版
